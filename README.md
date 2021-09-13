@@ -11,12 +11,12 @@ This repository contains materials for the course of Introduction to Programming
 Course in English
 
 ## Planning
-- Sep. 17th: Introduction to Python, variables
-- Sep. 24th: Basic data types, Working with strings.
-- Oct. 1st: Control structures
-- Oct. 8th: Input-output, Module
-- Oct. 15th: Basic functions
-- Oct. 22nd: Working with files
+- **Sep. 17th**: Introduction to Python, variables
+- **Sep. 24th**: Basic data types, Working with strings.
+- **Oct. 1st**: Control structures
+- **Oct. 8th**: Input-output, Module
+- **Oct. 15th**: Basic functions
+- **Oct. 22nd**: Working with files
 
 ## Grading
 <div class="alert alert-block alert-success">
