@@ -1,6 +1,14 @@
 # SL4AY010 Introduction to Programming for Linguists
 ## Description
-The course of Introduction to Programming for Linguists is aimed at students of linguistics and other disciplines with no prior programming experience, who are interested in learning Python in order to process large volumes of text.
+This repository contains materials for the course of Introduction to Programming for Linguists. It is aimed at students of linguistics and other disciplines with no prior programming experience, who are interested in learning Python in order to process large volumes of text. 
+
+## Course components (lecture+lab)
+- 6 hours of lectures
+- 6 hours of labs
+- One assignment after the 4th lecture 
+- One final project
+
+Course in English
 
 ## Planning
 - Sep. 17th: Introduction to Python, variables
