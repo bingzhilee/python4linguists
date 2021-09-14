@@ -2,6 +2,11 @@
 ## Description
 This repository contains materials for the course of Introduction to Programming for Linguists. It is aimed at students of linguistics and other disciplines with no prior programming experience, who are interested in learning Python in order to process large volumes of text. 
 
+To download the course materials:
++ Open the terminal window
++ Type `cd directory_name` to switch to the directory you want to save the course material folder
++ Type `git clone `
+
 ## Course components (lecture+lab)
 - 6 hours of lectures
 - 6 hours of labs
