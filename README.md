@@ -6,7 +6,7 @@ To download the course materials:
 + Open the terminal window
 + Type `cd directory_name` to switch to the directory you want to save the course material folder
 + Type `git clone git@github.com:bingzhilee/python4linguists.git` to download the course material
-+ Type `git pull` to fetch the latest changes from remote repository
++ Type `git pull` to fetch the latest changes from the remote repository
 
 ## Course components (lecture+lab)
 - 6 hours of lectures
