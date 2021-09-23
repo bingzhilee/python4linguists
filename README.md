@@ -18,9 +18,9 @@ Course in English
 
 ## Planning
 - **Sep. 17th**: Introduction to Python, variables
-- **Sep. 24th**: Basic data types, Working with strings.
+- **Sep. 24th**: Basic data types,if structure.
 - **Oct. 1st**: Control structures
-- **Oct. 8th**: Input-output, Module
+- **Oct. 8th**:  Module, working with strings
 - **Oct. 15th**: Basic functions
 - **Oct. 22nd**: Working with files
 
