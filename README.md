@@ -19,10 +19,10 @@ Course in English
 ## Planning
 - **Sep. 17th**: Introduction to Python, variables
 - **Sep. 24th**: Basic data types,if structure.
-- **Oct. 1st**: List, dictionary and for loop
-- **Oct. 8th**:  Module, working with strings
+- **Oct. 1st**: List, dictionary and *for* loop
+- **Oct. 8th**:  *While* structure, working with strings
 - **Oct. 15th**: Basic functions
-- **Oct. 22nd**: Working with files
+- **Oct. 22nd**: Working with files,module *pandas*
 
 ## Grading
 <div class="alert alert-block alert-success">
