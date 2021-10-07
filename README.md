@@ -27,10 +27,10 @@ Course in English
 ## Grading
 <div class="alert alert-block alert-success">
 <b>Individual assignment:</b> 
-    due Oct. 19th (30%)
+    due Oct. 15th (20%)
 </div>
 
 <div class="alert alert-block alert-success">
 <b>Final group project:</b> 
-    (pair-work) due Dec. 17th (70%)
+    (pair-work) due Dec. 17th (80%)
 </div>
