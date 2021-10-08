@@ -32,5 +32,5 @@ Course in English
 
 <div class="alert alert-block alert-success">
 <b>Final group project:</b> 
-    (pair-work) due Dec. 17th (80%)
+    (pair-work) due Dec. 12th (80%)
 </div>
