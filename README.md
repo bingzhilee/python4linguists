@@ -8,6 +8,10 @@ To download the course materials:
 + Type `git clone git@github.com:bingzhilee/python4linguists.git` to download the course material
 + Type `git pull` to fetch the latest changes from the remote repository
 
+Or you can also download the course materials directly:
++ click the green `code` button, then click `Download Zip`
++ unzip the file .
+
 ## Course components (lecture+lab)
 - 6 hours of lectures
 - 6 hours of labs
